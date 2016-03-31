@@ -1,0 +1,2 @@
+cls
+call ndk-build
