@@ -15,5 +15,5 @@
  */
 
 #define inline
-#define ANDROID_SMP 0
+#define ANDROID_SMP 1
 #include <cutils/atomic-inline.h>
